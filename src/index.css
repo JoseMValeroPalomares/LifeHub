@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Opcional: Para asegurar que el fondo sea oscuro por defecto */
+body {
+  background-color: #020617; 
+  color: white;
+}
