@@ -1,16 +1,34 @@
-# React + Vite
+🗺️ Roadmap
+ Integración de módulos principales.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ Persistencia de datos local.
 
-Currently, two official plugins are available:
+ Integración de IA (Gemini).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ Sincronización en la nube (Firebase/Supabase).
 
-## React Compiler
+ Versión móvil PWA instalable.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+ Exportación de reportes en PDF.
 
-## Expanding the ESLint configuration
+🤝 Contribución
+Las contribuciones son bienvenidas. Si tienes una idea para mejorar NexusOS:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Haz un Fork del proyecto.
+
+Crea una rama para tu Feature (git checkout -b feature/AmazingFeature).
+
+Haz Commit de tus cambios (git commit -m 'Add some AmazingFeature').
+
+Haz Push a la rama (git push origin feature/AmazingFeature).
+
+Abre un Pull Request.
+
+<div align="center"> <sub>Desarrollado con ❤️ por Jose Valero</sub> </div> ```
+Consejos Pro para que luzca aún mejor:
+
+Badge de Status: He puesto "Active", lo cual da buena imagen.
+
+Tabla de Módulos: Las tablas en Markdown se ven muy limpias y ordenadas en GitHub.
+
+Sección Roadmap: Muestra que tienes visión de futuro para el proyecto, algo que los reclutadores valoran mucho.
