@@ -144,7 +144,7 @@ Este proyecto está bajo la licencia **MIT**. Consulta el archivo [LICENSE](LICE
 ---
 
 <div align="center">
-  <sub>Desarrollado con ❤️ por [Tu Nombre]</sub>
+  <sub>Desarrollado con ❤️ por Jose Valero</sub>
 </div>
 
 
