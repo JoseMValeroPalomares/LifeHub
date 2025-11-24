@@ -1,34 +1,42 @@
-🗺️ Roadmap
- Integración de módulos principales.
+# 🚀 Guía de Instalación Rápida
 
- Persistencia de datos local.
+Sigue estos pasos para descargar y ejecutar **NexusOS** en tu ordenador en menos de 2 minutos.
 
- Integración de IA (Gemini).
+### 📋 Prerrequisitos
+Antes de empezar, asegúrate de tener instalado **Node.js** (versión 16 o superior).
+> [Descargar Node.js aquí](https://nodejs.org/)
 
- Sincronización en la nube (Firebase/Supabase).
+---
 
- Versión móvil PWA instalable.
+### ⚡️ Paso a paso
 
- Exportación de reportes en PDF.
+**1. Clonar el repositorio**
+Abre tu terminal (o consola de comandos) y ejecuta:
 
-🤝 Contribución
-Las contribuciones son bienvenidas. Si tienes una idea para mejorar NexusOS:
+```git clone https://github.com/TU_USUARIO/nexus-os.git```
 
-Haz un Fork del proyecto.
+```cd nexus-os```
 
-Crea una rama para tu Feature (git checkout -b feature/AmazingFeature).
+2. Instalar las dependencias
+Esto descargará todas las librerías necesarias automáticamente:
 
-Haz Commit de tus cambios (git commit -m 'Add some AmazingFeature').
+```npm install```
 
-Haz Push a la rama (git push origin feature/AmazingFeature).
+**3. Configurar la IA (Opcional) **
+Para activar las funciones inteligentes, necesitas una API Key gratuita de Google Gemini.
 
-Abre un Pull Request.
+> [Consíguela aquí]: Google AI Studio
 
-<div align="center"> <sub>Desarrollado con ❤️ por Jose Valero</sub> </div> ```
-Consejos Pro para que luzca aún mejor:
 
-Badge de Status: He puesto "Active", lo cual da buena imagen.
+Pega tu clave dentro en src/App.jsx:
 
-Tabla de Módulos: Las tablas en Markdown se ven muy limpias y ordenadas en GitHub.
 
-Sección Roadmap: Muestra que tienes visión de futuro para el proyecto, algo que los reclutadores valoran mucho.
+| Módulo         | Descripción                                                  | Tecnología Clave           |
+| -------------- | ------------------------------------------------------------ | -------------------------- |
+| 🧘 LifeHub     | Gestión de tareas con rollover automático y Modo Zen.        | localStorage,Date Logic    |
+| 💸 MoneyFlow   | Finanzas personales, control de deudas y metas inteligentes. | Recharts,Math Logic        |
+| 🎓 StudyMaster | Calculadora de notas, calendario académico y Tutor IA.       | Gemini API,Custom Calendar |
+| 🩺 MyHealth    | Tracking de salud, sueño y métricas vitales.                 | Data Visualization         |
+
+
+
